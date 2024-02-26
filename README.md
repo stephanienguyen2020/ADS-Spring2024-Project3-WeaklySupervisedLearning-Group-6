@@ -3,11 +3,11 @@
 
 ### [Full Project Description](doc/project3_desc.md)
 
-Term: Fall 2022
+Term: Spring 2024
 
-+ Team ##
++ Team 6
 + Team members
-	+ team member 1
+	+ Tien Nguyen
 	+ team member 2
 	+ team member 3
 	+ team member 4
