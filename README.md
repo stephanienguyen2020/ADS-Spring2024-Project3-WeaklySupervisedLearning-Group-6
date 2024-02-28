@@ -8,7 +8,7 @@ Term: Spring 2024
 + Team 6
 + Team members
 	+ Tien Nguyen
-	+ team member 2
+	+ Danielle Solomon
 	+ team member 3
 	+ team member 4
 	+ team member 5
