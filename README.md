@@ -10,8 +10,8 @@ Term: Spring 2024
 	+ Tien Nguyen
 	+ Danielle Solomon
 	+ Rishabh Ganesh
-	+ team member 4
-	+ team member 5
+	+ Alex Chen
+	+ Boyu Li
 
 + Project summary: In this project, we are building weakly supervised machine learning models that tackle the problem of noisy labels in the dataset. The goal for our project is to classify a dataset of 50,000 images as accurately as possible despite noisy labels using weakly supervised learning techniques like label correction.
 	
