@@ -13,7 +13,7 @@ Term: Spring 2024
 	+ team member 4
 	+ team member 5
 
-+ Project summary: In this project, we created ...
++ Project summary: In this project, we are building weakly supervised machine learning models that tackle the problem of noisy labels in the dataset. The goal for our project is to classify a dataset of 50,000 images as accurately as possible despite noisy labels using weakly supervised learning techniques like label correction.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
