@@ -7,9 +7,9 @@ Term: Spring 2024
 
 + Team 6
 + Team members
-  	+ Rishabh Ganesh
-	+ Tien Nguyen
-	+ Alex Chen
+	+ Rishabh Ganesh
+ 	+ Tien Nguyen
+  	+ Alex Chen
  	+ Danielle Solomon
 	+ Boyu Li
 
